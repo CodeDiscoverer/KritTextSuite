@@ -47,7 +47,7 @@ class _TextSearchScreenState extends State<TextSearchScreen> {
       final url = endpoint.replaceAll("{word}", word);
       try {
         final response = await http.get(Uri.parse(url), headers: {
-          'x-rapidapi-key': 'API_KEY', // Add your API KEY
+          'x-rapidapi-key': 'API KEY', // Add your API KEY
           'x-rapidapi-host': 'wordsapiv1.p.rapidapi.com',
         });
 
