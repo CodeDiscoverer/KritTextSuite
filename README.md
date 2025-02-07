@@ -21,7 +21,7 @@ Krit Text Suite is a Flutter-based mobile application that allows users to searc
 ### 📥 Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/CodeDiscoverer/krit-text-suite.git
+   git clone https://github.com/CodeDiscoverer/KritTextSuite.git
    cd krit-text-suite
    ```
 2. Install dependencies:
