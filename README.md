@@ -22,7 +22,7 @@ Krit Text Suite is a Flutter-based mobile application that allows users to searc
 1. Clone the repository:
    ```sh
    git clone https://github.com/CodeDiscoverer/KritTextSuite.git
-   cd krit-text-suite
+   cd KritTextSuite
    ```
 2. Install dependencies:
    ```sh
